@@ -4,6 +4,5 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println(11);
 		System.out.println(222);
-             啊手动阀手动阀	
 }
 }
