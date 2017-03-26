@@ -5,7 +5,7 @@ public class ArrayXZPX {
 		int[] arr = {1,7,6,2,5,6,7,2,1,3,6,7,9,5,2,6,4};
 		xzpx(arr);
 		Test2 dy = new Test2();
-		Test.parray(arr);
+		ArrayMPPX.parray(arr);
 		dy.parray(arr);
 	}
 	static int[] xzpx(int[] arr){

@@ -1,6 +1,6 @@
 package com.lidong;
 
-public class Test {
+public class ArrayMPPX {
 	public static void main(String[] args) {
 		int[] array = {1,2,4,7,5,9,2};
 		mppx(array);
